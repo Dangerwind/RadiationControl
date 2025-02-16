@@ -11,4 +11,4 @@
   
  Мой первый коммерческий проект в разработке устройств на микроконтроллерах.
 
- ![Внешний вид устройства сигрализатора ионизирующего излучения](/assets/images/markdown/markdown.png)
+ ![Внешний вид устройства сигрализатора ионизирующего излучения](https://github.com/Dangerwind/RadiationControl/blob/main/img/RadiationControl.jpg)
