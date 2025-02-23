@@ -15,4 +15,5 @@
 **Схемотехника:** микроконтроллер Atmega8L, счетчики Гейгера СБМ-19
   
  ![Внешний вид устройства сигрализатора ионизирующего излучения](https://github.com/Dangerwind/RadiationControl/blob/main/img/RadiationControl.jpg)
+ Макет изделия.
 
