@@ -16,5 +16,5 @@
   
  ![Внешний вид устройства сигрализатора ионизирующего излучения](https://github.com/Dangerwind/RadiationControl/blob/main/img/RadiationControl.jpg)
  
- Макет изделия.
+ На фотографии макет изделия.
 
